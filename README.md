@@ -1,3 +1,5 @@
+https://anirudhkulkarni7.github.io/retro_website/
+
 Introduction
 This project is a demonstration of creating a retro-themed website using modern web development technologies. It aims to showcase the use of GSAP for animations and Locomotive Scroll for smooth scrolling effects.
 
